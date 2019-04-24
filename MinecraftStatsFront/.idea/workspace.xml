@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3b3f4d-dafc-4f39-9efe-01178a8decac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quasar.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/quasar-logo-full.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/sad.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/app.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/common.variables.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/variables.ios.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/variables.mat.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/MyLayout.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Error404.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugins/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugins/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/routes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/apple-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/icon-128x128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/icon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/icon-256x256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/icon-384x384.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/icon-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/icons/ms-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/quasar-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statics/woodbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+              <first_editor relative-caret-position="171">
+                <caret line="9" selection-start-line="9" selection-end-line="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,10 +52,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="213" />
+    <option name="x" value="-12" />
     <option name="y" value="-12" />
-    <option name="width" value="2577" />
-    <option name="height" value="1416" />
+    <option name="width" value="2904" />
+    <option name="height" value="1596" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -106,12 +75,6 @@
               <item name="MinecraftStatsFront" type="462c0819:PsiDirectoryNode" />
               <item name="statics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MinecraftStatsFront" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MinecraftStatsFront" type="462c0819:PsiDirectoryNode" />
-              <item name="statics" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -120,6 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -147,16 +111,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556095446069</updated>
-      <workItem from="1556095447355" duration="379000" />
+      <workItem from="1556095447355" duration="1243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="379000" />
+    <option name="totallyTimeSpent" value="1243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1935" height="1064" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
@@ -189,8 +152,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+          <first_editor relative-caret-position="171">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>

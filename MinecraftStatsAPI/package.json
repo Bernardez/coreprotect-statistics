@@ -1,9 +1,14 @@
 {
   "name": "minecraftstatsapi",
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.0.0",
+  "author": "Bas Siegerink",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/Bernardez/coreprotect-statistics"
+  },
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node bin/www.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
